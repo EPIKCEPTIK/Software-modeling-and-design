@@ -1,0 +1,12 @@
+.idea/
+*.sln.iml
+*.DotSettings.user
+.Rider/
+.idea/*
+bin/
+obj/
+artifacts/
+publish/
+*.vsix
+*.nupkg
+ 
